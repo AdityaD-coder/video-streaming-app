@@ -76,18 +76,3 @@ Instead of building everything from scratch, this project follows a different ap
 - Improve code quality and architecture 
 
 ---
-
-## Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/video-streaming-app.git
-
-# Navigate into project
-cd video-streaming-app
-
-# Install dependencies
-npm install
-
-# Run the project
-npm run dev
